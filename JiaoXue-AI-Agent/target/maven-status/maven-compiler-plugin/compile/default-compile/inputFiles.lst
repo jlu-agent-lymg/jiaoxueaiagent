@@ -1,0 +1,15 @@
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\advisor\MyLoggerAdvisor.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\advisor\ReReadingAdvisor.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\agent\JiaoxueAgent.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\app\JiaoxueAIApp.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\config\DashscopeChatModelConfig.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\config\ToolRegistration.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\constant\ApiKey.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\constant\FileConstant.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\JiaoXueAiAgentApplication.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\rag\JiaoXueDocumentLoader.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\rag\JiaoxueVectorStoreConfig.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\tools\FileOperationTool.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\tools\ResourceDownloadTool.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\tools\WebScrapingTool.java
+C:\3\SpringBootCURD\用户中心管理源码\springboot-init-master-后端万用模板\JiaoXue-AI-Agent\src\main\java\com\g01502\jiaoxueaiagent\tools\WebSearchTool.java

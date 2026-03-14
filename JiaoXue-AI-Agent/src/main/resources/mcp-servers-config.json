@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "jiaoxueyaServer": {
+      "command": "java.cmd",
+      "args": [
+        "-Dspring.ai.mcp.server.stdio=true",
+        "-Dspring.main.web-application-type=none",
+        "-Dlogging.pattern.console=",
+        "-jar",
+        "/Users/gulihua/Documents/mcp-server/target/mcp-server-0.0.1-SNAPSHOT.jar"
+      ],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: JiaoxueAI
+  ai:
+    dashscope:
+      api-key: your_key
+      chat:
+        options:
+          model: qwen-plus
+  mcp:
+    client:
+      stdio:
+        servers-configuration: classpath:/mcp-servers-config.json
+  mandatory-file-encoding: UTF-8
+# searchApi
+search-api:
+  api-key: your_key
