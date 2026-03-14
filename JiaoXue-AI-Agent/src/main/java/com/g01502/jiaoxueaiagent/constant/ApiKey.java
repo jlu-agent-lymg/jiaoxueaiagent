@@ -7,5 +7,5 @@ package com.g01502.jiaoxueaiagent.constant;
  * <p>流程说明：启动时由模型配置类引用该常量并注入到 DashScopeApi 构建流程。
  */
 public interface ApiKey {
-    String apiKeyNum=your_key;
+    String apiKeyNum="your_key";
 }
