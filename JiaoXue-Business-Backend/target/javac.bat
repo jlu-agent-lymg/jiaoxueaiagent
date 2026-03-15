@@ -1,0 +1,1 @@
+cmd.exe /X /C "C:\Users\Administrator\.jdks\ms-21.0.10\bin\javac.exe @D:/OfficalWeb/agent/jiaoxueaiagent/JiaoXue-Business-Backend/target/org.codehaus.plexus.compiler.javac.JavacCompiler12801850853629222720arguments"

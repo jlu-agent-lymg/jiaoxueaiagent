@@ -1,0 +1,15 @@
+com\g01502\jiaoxueaiagent\config\DashscopeChatModelConfig.class
+com\g01502\jiaoxueaiagent\agent\JiaoxueAgent.class
+com\g01502\jiaoxueaiagent\tools\FileOperationTool.class
+com\g01502\jiaoxueaiagent\advisor\MyLoggerAdvisor.class
+com\g01502\jiaoxueaiagent\tools\WebSearchTool.class
+com\g01502\jiaoxueaiagent\app\JiaoxueAIApp.class
+com\g01502\jiaoxueaiagent\constant\ApiKey.class
+com\g01502\jiaoxueaiagent\config\ToolRegistration.class
+com\g01502\jiaoxueaiagent\JiaoXueAiAgentApplication.class
+com\g01502\jiaoxueaiagent\advisor\ReReadingAdvisor.class
+com\g01502\jiaoxueaiagent\rag\JiaoXueDocumentLoader.class
+com\g01502\jiaoxueaiagent\constant\FileConstant.class
+com\g01502\jiaoxueaiagent\rag\JiaoxueVectorStoreConfig.class
+com\g01502\jiaoxueaiagent\tools\WebScrapingTool.class
+com\g01502\jiaoxueaiagent\tools\ResourceDownloadTool.class

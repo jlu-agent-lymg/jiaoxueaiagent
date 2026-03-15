@@ -1,0 +1,5 @@
+# Created at 2026-03-15T10:50:23.797
+Boot Manifest-JAR contains absolute paths in classpath 'D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-AI-Agent\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

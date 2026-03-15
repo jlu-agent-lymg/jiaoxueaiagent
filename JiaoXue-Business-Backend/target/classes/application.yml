@@ -1,0 +1,32 @@
+﻿server:
+  port: 18081
+
+spring:
+  application:
+    name: JiaoXueBusinessBackend
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 数据库连接 URL
+    url: ${BIZ_DB_URL:jdbc:mysql://127.0.0.1:3306/jiaoxue_biz?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false}
+    # 数据库用户名，默认使用 root
+    username: ${BIZ_DB_USERNAME:root}
+    # 数据库密码，已更新为你提供的 mzx09251111
+    password: ${BIZ_DB_PASSWORD:mzx09251111}
+
+mybatis-plus:
+  global-config:
+    db-config:
+      # ID 生成策略：雪花算法 (Assign_ID)
+      id-type: assign_id
+      # 逻辑删除配置
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+  configuration:
+    # 开启下划线转驼峰命名映射（如 db 字段 user_id 转为 entity 属性 userId）
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    # 设置你项目包路径下的日志级别
+    com.g01502.jiaoxuebackend: info
