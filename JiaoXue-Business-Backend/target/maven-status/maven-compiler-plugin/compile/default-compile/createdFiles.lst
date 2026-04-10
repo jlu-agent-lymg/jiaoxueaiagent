@@ -1,4 +1,5 @@
 com\g01502\jiaoxuebackend\service\CourseLessonService.class
+com\g01502\jiaoxuebackend\dto\AiMessageItem.class
 com\g01502\jiaoxuebackend\entity\CourseLessonEntity.class
 com\g01502\jiaoxuebackend\config\MybatisPlusConfig.class
 com\g01502\jiaoxuebackend\controller\OrderController.class
@@ -26,6 +27,7 @@ com\g01502\jiaoxuebackend\service\impl\LearningPlanServiceImpl.class
 com\g01502\jiaoxuebackend\mapper\ExamPaperMapper.class
 com\g01502\jiaoxuebackend\common\exception\GlobalExceptionHandler.class
 com\g01502\jiaoxuebackend\dto\NoticePublishRequest.class
+com\g01502\jiaoxuebackend\dto\AiChatResponse.class
 com\g01502\jiaoxuebackend\controller\CourseLessonController.class
 com\g01502\jiaoxuebackend\mapper\LearningResourceMapper.class
 com\g01502\jiaoxuebackend\service\ExamRecordService.class
@@ -38,6 +40,7 @@ com\g01502\jiaoxuebackend\service\impl\CourseLessonServiceImpl.class
 com\g01502\jiaoxuebackend\dto\EnrollmentCreateRequest.class
 com\g01502\jiaoxuebackend\service\impl\CourseServiceImpl.class
 com\g01502\jiaoxuebackend\controller\UserController.class
+com\g01502\jiaoxuebackend\service\AiCenterService.class
 com\g01502\jiaoxuebackend\service\impl\LearningResourceServiceImpl.class
 com\g01502\jiaoxuebackend\controller\LearningPlanController.class
 com\g01502\jiaoxuebackend\service\UserService.class
@@ -45,6 +48,8 @@ com\g01502\jiaoxuebackend\service\LearningResourceService.class
 com\g01502\jiaoxuebackend\common\exception\BusinessException.class
 com\g01502\jiaoxuebackend\mapper\OrderRecordMapper.class
 com\g01502\jiaoxuebackend\service\impl\UserServiceImpl.class
+com\g01502\jiaoxuebackend\dto\AiChatRequest.class
+com\g01502\jiaoxuebackend\controller\AiCenterController.class
 com\g01502\jiaoxuebackend\entity\UserEntity.class
 com\g01502\jiaoxuebackend\dto\OrderPayRequest.class
 com\g01502\jiaoxuebackend\dto\CourseCreateRequest.class
@@ -53,7 +58,9 @@ com\g01502\jiaoxuebackend\service\CourseEnrollmentService.class
 com\g01502\jiaoxuebackend\service\impl\ExamRecordServiceImpl.class
 com\g01502\jiaoxuebackend\controller\CourseEnrollmentController.class
 com\g01502\jiaoxuebackend\entity\CourseEnrollmentEntity.class
+com\g01502\jiaoxuebackend\service\impl\AiCenterServiceImpl.class
 com\g01502\jiaoxuebackend\config\MybatisPlusConfig$AuditMetaObjectHandler.class
+com\g01502\jiaoxuebackend\dto\AiSessionItem.class
 com\g01502\jiaoxuebackend\controller\ExamPaperController.class
 com\g01502\jiaoxuebackend\entity\ExamRecordEntity.class
 com\g01502\jiaoxuebackend\controller\LearningResourceController.class

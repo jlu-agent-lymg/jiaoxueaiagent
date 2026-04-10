@@ -1,7 +1,9 @@
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\mapper\OrderRecordMapper.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\entity\CourseEntity.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\entity\OrderRecordEntity.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\AiChatResponse.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\entity\LearningPlanEntity.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\controller\AiCenterController.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\controller\LearningPlanController.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\impl\CourseEnrollmentServiceImpl.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\impl\ExamRecordServiceImpl.java
@@ -19,6 +21,7 @@ D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g0
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\CourseUpdateRequest.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\PageRequest.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\config\MybatisPlusConfig.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\AiChatRequest.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\entity\LearningResourceEntity.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\ExamSubmitRequest.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\UserService.java
@@ -36,6 +39,7 @@ D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g0
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\controller\ExamRecordController.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\mapper\ExamPaperMapper.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\OrderRecordService.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\impl\AiCenterServiceImpl.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\impl\NoticeServiceImpl.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\mapper\LearningResourceMapper.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\entity\CourseEnrollmentEntity.java
@@ -64,5 +68,8 @@ D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g0
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\mapper\ExamRecordMapper.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\ExamRecordService.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\mapper\CourseEnrollmentMapper.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\service\AiCenterService.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\controller\LearningResourceController.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\AiMessageItem.java
+D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\AiSessionItem.java
 D:\OfficalWeb\agent\jiaoxueaiagent\JiaoXue-Business-Backend\src\main\java\com\g01502\jiaoxuebackend\dto\LearningPlanCreateRequest.java

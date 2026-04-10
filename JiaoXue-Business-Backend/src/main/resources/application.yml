@@ -30,3 +30,8 @@ logging:
   level:
     # 设置你项目包路径下的日志级别
     com.g01502.jiaoxuebackend: info
+
+agent:
+  backend:
+    # 独立 Agent 服务地址，可通过环境变量覆盖。
+    base-url: ${AGENT_BACKEND_BASE_URL:http://127.0.0.1:8000}
